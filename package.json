@@ -1,0 +1,16 @@
+{
+  "name": "inm420saa_jhonmasalta_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir=\"sunny\""
+  },
+  "keywords": [],
+  "author": "Jhon Masalta",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
